@@ -1,0 +1,27 @@
+#root {
+  margin: 0 auto;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.margin-right-half-1 {
+  margin-right: 0.5rem;
+}
+
+.markt-img {
+  height: 10rem;
+}
